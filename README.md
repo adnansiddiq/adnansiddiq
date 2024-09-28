@@ -81,6 +81,9 @@ As a **Solo Full Stack Senior Developer**, I managed the application from **deve
 > "Adnan is super talented and very knowledgeable, skilled and top Freelancer on Upwork. I will hire him again without a second thought. He managed to take our project to the next level and produced some great results. Good work, Adnan."  
 > — Bob, CEO, EverGenius
 
+## Future Aspirations
+I aim to explore and integrate advanced AI tools into applications to enhance user experiences and streamline processes. My goal is to leverage AI technologies that empower customers to work smarter, enabling them to achieve their objectives more efficiently and effectively.
+
 ## Languages
 - English: Very Good
 - Urdu: Excellent
