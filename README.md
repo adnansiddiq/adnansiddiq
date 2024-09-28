@@ -81,5 +81,10 @@ As a **Solo Full Stack Senior Developer**, I managed the application from **deve
 > "Adnan is super talented and very knowledgeable, skilled and top Freelancer on Upwork. I will hire him again without a second thought. He managed to take our project to the next level and produced some great results. Good work, Adnan."  
 > — Bob, CEO, EverGenius
 
+## Languages
+- English: Very Good
+- Urdu: Excellent
+- Punjabi: Excellent
+- Hindi: Very Good
 
 
