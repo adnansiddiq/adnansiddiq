@@ -7,7 +7,7 @@
 - LinkedIn: [https://linkedin.com/in/adnansiddiq](https://linkedin.com/in/adnansiddiq)
 - Upwork: [https://www.upwork.com/freelancers/adnansiddiq](https://www.upwork.com/freelancers/adnansiddiq)
 ---
-As a seasoned SaaS Application Manager, I specialize in delivering high-performing, scalable solutions tailored to meet business needs. My expertise lies in API integration, enabling seamless connectivity between systems, platforms, and applications, optimizing workflows for enhanced performance. I leverage cutting-edge AI tools to drive automation, data-driven insights, and innovation, ensuring businesses stay ahead in a rapidly evolving digital landscape. With a focus on precision, security, and scalability, I manage end-to-end processes to maximize efficiency and drive success in SaaS environments.
+As a seasoned SaaS Application Manager with **15 years** of experience, I specialize in delivering high-performing, scalable solutions tailored to meet business needs. My expertise lies in API integration, enabling seamless connectivity between systems, platforms, and applications, optimizing workflows for enhanced performance. I leverage cutting-edge AI tools to drive automation, data-driven insights, and innovation, ensuring businesses stay ahead in a rapidly evolving digital landscape. With a focus on precision, security, and scalability, I manage end-to-end processes to maximize efficiency and drive success in SaaS environments.
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,nodejs,laravel,php,react,js,html,css,jquery,tailwind,mysql,mongodb,git,docker,redis,ubuntu)]( )
