@@ -16,7 +16,7 @@ As a seasoned SaaS Application Manager with **15 years** of experience, I specia
 - **Backend**: Laravel, NodeJS, RESTful APIs
 - **Frontend**: React, Blade, Tailwind, AlpineJS
 - **Mobile Apps**: iOS Native, React Native
-- **DevOps**: Ubuntu, CentOS, LAMP/MEAN/MERN Stack, CI/CD
+- **DevOps**: Ubuntu, CentOS, LAMP/MEAN/MERN Stack, CI/CD, Docker
 - **Databases**: MySQL, MongoDB, Redis, RabbitMQ, Firebase
 
 ## Top Projects & Success Stories
