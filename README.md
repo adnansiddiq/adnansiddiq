@@ -12,10 +12,10 @@ As a seasoned SaaS Application Manager with **15 years** of experience, I specia
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,nodejs,laravel,php,react,js,html,css,jquery,tailwind,mysql,mongodb,git,docker,redis,ubuntu)]( )
 - **AI & Automation**: Expertise in AI tools for workflow automation and data-driven insights
+- **Cloud Services**: AWS, Azure, Digital Ocean, Scalable Infrastructure
 - **Backend**: Laravel, NodeJS, RESTful APIs
 - **Frontend**: React, Blade, Tailwind, AlpineJS
 - **Mobile Apps**: iOS Native, React Native
-- **Cloud Services**: AWS, Digital Ocean, Heroku, Scalable Infrastructure
 - **DevOps**: Ubuntu, CentOS, LAMP/MEAN/MERN Stack, CI/CD
 - **Databases**: MySQL, MongoDB, Redis, RabbitMQ, Firebase
 
