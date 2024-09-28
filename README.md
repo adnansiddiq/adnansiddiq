@@ -51,6 +51,11 @@ _`#Laravel` `#Blade` `#Vue` `#MySQL` `#Redis` `#AWS` `#GoogleAds` `#FacebookAds`
 Brax is a platform designed to simplify content marketing by automating financial reports and business performance metrics across multiple networks.
 
 As the **Senior Software Engineer and Team Lead**, I was responsible for the entire application lifecycle, managing a team of 8 members from **planning** to **development**, and ultimately to **release**. My key contributions during my time at Brax include:
+- Architecting and deploying a **scalable infrastructure** on **AWS** for high availability and reliability.
+- Establishing **CI/CD pipelines** to ensure seamless, error-free production deployments.
+- Successfully leading **vendor integrations** with platforms such as **Facebook Ads**, **MGID**, and **Taboola**.
+- Implementing **schedule rules** for ad management, improving automation and operational efficiency.
+
 > **Client Review on Upwork**
 > "Great work, communication, team leadership and growth. Adnan is a pleasure to work with"
 > — Joe, CEO Brax
