@@ -20,14 +20,37 @@ As a seasoned SaaS Application Manager, I specialize in delivering high-performi
 - **Databases**: MySQL, MongoDB, Redis, RabbitMQ, Firebase
 
 ## Top Projects & Success Stories
-### [Brax](https://brax.io)  
+### Brax
+[https://brax.io](https://brax.io)  
 **Senior Software Engineer & Team Lead**  
 **2019 – 2021**
+_`#Laravel` `#Blade` `#Vue` `#MySQL` `#Redis` `#AWS` `#GoogleAds` `#FacebookAds` `#Revcontent` `#Yahoo` `#GoogleAnalytics` `#Taboola` `#MGID` `#SendGrid` `#Tailwind`_
 Brax is a platform designed to simplify content marketing by automating financial reports and business performance metrics across multiple networks.
 
 As the **Senior Software Engineer and Team Lead**, I was responsible for the entire application lifecycle, managing a team of 8 members from **planning** to **development**, and ultimately to **release**. My key contributions during my time at Brax include:
-> Client Review on Upwork:
-> Great work, communication, team leadership and growth. Adnan is a pleasure to work with
+> **Client Review on Upwork**
+> "Great work, communication, team leadership and growth. Adnan is a pleasure to work with"
+> — Joe, CEO Brax
+
+### EverGenius  
+[https://evergenius.com](https://evergenius.com)  
+**Full Stack Senior Developer**  
+**2018 – 2020**
+_`#Laravel` `#Angular` `#MySQL` `#Redis` `#AWS` `#Twilio` `#SendGrid` `#iOS` `#Android` `#Tailwind`_
+
+EverGenius was a customer relationship management (CRM) platform equipped with advanced business automation tools and integration capabilities.
+
+As a **Solo Full Stack Senior Developer**, I managed the application from **development** to **delivery**. My key achievements during this period included:
+- Architecting a **scalable infrastructure** on **AWS** utilizing **EC2**, **RDS**, **Redis**, and **S3** to ensure high availability and performance.
+- Implementing **SMS and voice marketing campaigns** using **Twilio**, which enhanced customer engagement and outreach.
+- Developing targeted **email campaigns** through **SendGrid**, streamlining communication and marketing efforts.
+- Creating **dynamic reports** and a **customizable dashboard** for data visualization and performance tracking.
+- Building mobile applications for both **iOS** and **Android**, which expanded accessibility and user engagement.
+- Implementing **SMS/Voice packages** and a **payment setup** via **Stripe**
+
+> **Client Review on Upwork**
+> "Adnan is super talented and very knowledgeable, skilled and top Freelancer on Upwork. I will hire him again without a second thought. He managed to take our project to the next level and produced some great results. Good work, Adnan."  
+> — Bob, CEO, EverGenius
 
 
 
