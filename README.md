@@ -24,7 +24,9 @@ As a seasoned SaaS Application Manager, I specialize in delivering high-performi
 [https://brax.io](https://brax.io)  
 **Senior Software Engineer & Team Lead**  
 **2019 – 2021**
+
 _`#Laravel` `#Blade` `#Vue` `#MySQL` `#Redis` `#AWS` `#GoogleAds` `#FacebookAds` `#Revcontent` `#Yahoo` `#GoogleAnalytics` `#Taboola` `#MGID` `#SendGrid` `#Tailwind`_
+
 Brax is a platform designed to simplify content marketing by automating financial reports and business performance metrics across multiple networks.
 
 As the **Senior Software Engineer and Team Lead**, I was responsible for the entire application lifecycle, managing a team of 8 members from **planning** to **development**, and ultimately to **release**. My key contributions during my time at Brax include:
@@ -36,6 +38,7 @@ As the **Senior Software Engineer and Team Lead**, I was responsible for the ent
 [https://evergenius.com](https://evergenius.com)  
 **Full Stack Senior Developer**  
 **2018 – 2020**
+
 _`#Laravel` `#Angular` `#MySQL` `#Redis` `#AWS` `#Twilio` `#SendGrid` `#iOS` `#Android` `#Tailwind`_
 
 EverGenius was a customer relationship management (CRM) platform equipped with advanced business automation tools and integration capabilities.
