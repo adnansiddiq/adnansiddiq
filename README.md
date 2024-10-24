@@ -20,6 +20,15 @@ As a seasoned SaaS Application Manager with **15 years** of experience, I specia
 - **Databases**: MySQL, MongoDB, Redis, RabbitMQ, Firebase
 
 ## Top Projects & Success Stories
+### Kobra Dataworks
+[https://kobra-dataworks.de](https://kobra-dataworks.de)
+**Senior AI Software Engineer**
+
+_`#Python` `#NodeJs` `#Laravel` `#MySQL` `#LLM` `#Flowise` `#ChromaDB` `#Docker` `#OpenAI` `#OpenRouteService` `#Pelias`_
+
+Kobra Dataworks supports companies with 10 - 250 employees in the digitalization process and the introduction of artificial intelligence in everyday business.
+As a **Senior AI Software Engineer** I specialize in proposing, architecting, and building cutting-edge AI-driven solutions for a diverse range of companies. Leveraging expertise across multiple technologies, I deliver data-powered dashboards that provide actionable insights and enhance decision-making processes. My role involves end-to-end solution design—from identifying business needs, developing machine learning models, integrating them into scalable software systems, to deploying intuitive, user-friendly dashboards. I collaborate closely with cross-functional teams to ensure seamless delivery, driving innovation and measurable outcomes through AI integration in various industries.
+
 ### MyGrid  
 [https://mygridclub.com](https://mygridclub.com)  
 **CTO**  
