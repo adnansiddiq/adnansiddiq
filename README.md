@@ -22,6 +22,7 @@ As a seasoned SaaS Application Manager with **15 years** of experience, I specia
 ## Top Projects & Success Stories
 ### Kobra Dataworks
 [https://kobra-dataworks.de](https://kobra-dataworks.de)
+
 **Senior AI Software Engineer**
 
 _`#Python` `#NodeJs` `#Laravel` `#MySQL` `#LLM` `#Flowise` `#ChromaDB` `#Docker` `#OpenAI` `#OpenRouteService` `#Pelias`_
