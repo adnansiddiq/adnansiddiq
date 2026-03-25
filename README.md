@@ -1,5 +1,5 @@
 # ADNAN SIDDIQ
-### Expert SaaS Application Manager | Mastering API Integration & AI-Powered Solutions
+### Expert Full Stack Developer | 15+ Years | Mobile · Cloud · AI · DevOps
 
 ---
 - E-mail: adnan.siddiq@live.com
@@ -7,17 +7,30 @@
 - LinkedIn: [https://linkedin.com/in/adnansiddiq](https://linkedin.com/in/adnansiddiq)
 - Upwork: [https://www.upwork.com/freelancers/adnansiddiq](https://www.upwork.com/freelancers/adnansiddiq)
 ---
-As a seasoned SaaS Application Manager with **15 years** of experience, I specialize in delivering high-performing, scalable solutions tailored to meet business needs. My expertise lies in API integration, enabling seamless connectivity between systems, platforms, and applications, optimizing workflows for enhanced performance. I leverage cutting-edge AI tools to drive automation, data-driven insights, and innovation, ensuring businesses stay ahead in a rapidly evolving digital landscape. With a focus on precision, security, and scalability, I manage end-to-end processes to maximize efficiency and drive success in SaaS environments.
+Full Stack Developer with **15+ years** of experience building production-grade web, mobile, and cloud applications from the ground up. I take **full ownership** of every engagement — from requirements gathering and planning through development, testing, and deployment — delivering scalable, performance-optimized solutions that grow with the business.
+
+My stack spans **iOS (Swift/ObjC)** and **React Native** for mobile; **PHP (Laravel, CodeIgniter)**, **Python (Flask, FastAPI, Django)**, and **Node.js (Express, Next.js)** on the backend; **React** and **Vue.js** on the frontend; and **AWS, Azure, and Digital Ocean** for cloud infrastructure, all managed on **Linux-based systems (Ubuntu, CentOS)**. I bring strong **DevOps** practices including CI/CD pipelines, Docker, and automated deployments.
+
+For the past 8 months I have integrated **AI-assisted development** (Claude, Cursor) into my workflow — always with a plan-first, review-first approach. I never ship blind AI output; every change is understood, verified, and production-ready before it goes live.
+
+Clients describe me as **friendly, reliable, and responsible**. My long-term relationships speak for themselves — an average contract lifespan of **3+ years** — because I treat every project as if it were my own business.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,nodejs,laravel,php,react,js,html,css,jquery,tailwind,mysql,mongodb,git,docker,redis,ubuntu)]( )
-- **AI & Automation**: Expertise in AI tools for workflow automation and data-driven insights
+[![My Skills](https://skillicons.dev/icons?i=aws,nodejs,laravel,php,python,react,vue,js,html,css,jquery,tailwind,mysql,mongodb,git,docker,redis,ubuntu)]( )
+- **AI & Automation**: AI Prompt Engineering, Claude, Cursor, workflow automation, data-driven insights
 - **Cloud Services**: AWS, Azure, Digital Ocean, Scalable Infrastructure
-- **Backend**: Laravel, NodeJS, RESTful APIs
-- **Frontend**: React, Blade, Tailwind, AlpineJS
-- **Mobile Apps**: iOS Native, React Native
-- **DevOps**: Ubuntu, CentOS, LAMP/MEAN/MERN Stack, CI/CD, Docker
+- **Backend**: Laravel, CodeIgniter, NodeJS (Express, Next.js), Python (Flask, FastAPI, Django), RESTful APIs
+- **Frontend**: React, Vue.js, Blade, Tailwind, AlpineJS
+- **Mobile Apps**: iOS Native (Swift, Objective-C), React Native
+- **DevOps**: Linux-based systems (Ubuntu, CentOS), LAMP/MEAN/MERN Stack, CI/CD, Docker
 - **Databases**: MySQL, MongoDB, Redis, RabbitMQ, Firebase
+
+## Working Style & Philosophy
+
+- **Full ownership model** — I engage from requirements gathering and planning through development, testing, and deployment. Nothing ships without being understood end to end.
+- **Scalability and performance first** — every architecture decision is made with growth in mind. I have built systems handling 10,000+ concurrent users on AWS.
+- **AI-assisted, never AI-blind** — I have used Claude and Cursor for AI-assisted development for the past 8 months. My approach is always plan-first and review-first; I understand and verify every line before it ships.
+- **Friendly, reliable, and responsible** — I build long-term relationships, not one-off engagements. My average client contract runs **3+ years** because clients trust me to deliver and communicate honestly at every step.
 
 ## Top Projects & Success Stories
 ### Kobra Dataworks
