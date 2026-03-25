@@ -6,6 +6,7 @@
 - 📞 WhatsApp: [+923217064275](https://wa.me/923217064275)
 - 💼 LinkedIn: [linkedin.com/in/adnansiddiq](https://linkedin.com/in/adnansiddiq)
 - 🔗 Upwork: [upwork.com/freelancers/adnansiddiq](https://www.upwork.com/freelancers/adnansiddiq)
+- ▶️ YouTube Intro: [Watch my intro video](https://www.youtube.com/watch?v=PwS2q95_zHs)
 ---
 Full Stack Developer with **15+ years** of experience building production-grade web, mobile, and cloud applications from the ground up. I take **full ownership** of every engagement — from requirements gathering and planning through development, testing, and deployment — delivering scalable, performance-optimized solutions that grow with the business.
 
