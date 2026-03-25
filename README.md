@@ -17,7 +17,7 @@ For the past 8 months I have integrated **AI-assisted development** (Claude, Cur
 Clients describe me as **friendly, reliable, and responsible**. My long-term relationships speak for themselves — an average contract lifespan of **3+ years** — because I treat every project as if it were my own business.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,digitalocean,nodejs,nextjs,laravel,php,python,django,react,vue,js,html,css,tailwind,swift,mysql,mongodb,firebase,git,docker,redis,ubuntu)]( )
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,nodejs,nextjs,laravel,php,python,django,react,vue,js,html,css,tailwind,swift,mysql,mongodb,firebase,git,docker,redis,ubuntu)]( )
 - **AI & Automation**: AI Prompt Engineering, Claude, Cursor, workflow automation, data-driven insights
 - **Cloud Services**: AWS, Azure, Digital Ocean, Scalable Infrastructure
 - **Backend**: Laravel, CodeIgniter, NodeJS (Express, Next.js), Python (Flask, FastAPI, Django), RESTful APIs
