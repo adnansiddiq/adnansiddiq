@@ -2,10 +2,10 @@
 ### Expert Full Stack Developer | 15+ Years | Mobile · Cloud · AI · DevOps
 
 ---
-- E-mail: adnan.siddiq@live.com
-- 📞 Whatsapp: [+923217064275](https://wa.me/923217064275)
-- LinkedIn: [https://linkedin.com/in/adnansiddiq](https://linkedin.com/in/adnansiddiq)
-- Upwork: [https://www.upwork.com/freelancers/adnansiddiq](https://www.upwork.com/freelancers/adnansiddiq)
+- 📧 E-mail: [adnan.siddiq@live.com](mailto:adnan.siddiq@live.com)
+- 📞 WhatsApp: [+923217064275](https://wa.me/923217064275)
+- 💼 LinkedIn: [linkedin.com/in/adnansiddiq](https://linkedin.com/in/adnansiddiq)
+- 🔗 Upwork: [upwork.com/freelancers/adnansiddiq](https://www.upwork.com/freelancers/adnansiddiq)
 ---
 Full Stack Developer with **15+ years** of experience building production-grade web, mobile, and cloud applications from the ground up. I take **full ownership** of every engagement — from requirements gathering and planning through development, testing, and deployment — delivering scalable, performance-optimized solutions that grow with the business.
 
@@ -132,10 +132,10 @@ I aim to explore and integrate advanced AI tools into applications to enhance us
 
 Feel free to reach out to me for the best service for any type of application. You can contact me via:
 
-- **WhatsApp:** [+92 321 7064275](https://wa.me/923217064275)
-- **Email:** [adnan.siddiq@live.com](mailto:adnan.siddiq@live.com)
-- **Upwork:** [My Upwork Profile](https://www.upwork.com/freelancers/adnansiddiq)
-- **LinkedIn:** [My LinkedIn Profile](https://linkedin.com/in/adnansiddiq)
+- 📞 **WhatsApp:** [+92 321 7064275](https://wa.me/923217064275)
+- 📧 **Email:** [adnan.siddiq@live.com](mailto:adnan.siddiq@live.com)
+- 🔗 **Upwork:** [My Upwork Profile](https://www.upwork.com/freelancers/adnansiddiq)
+- 💼 **LinkedIn:** [My LinkedIn Profile](https://linkedin.com/in/adnansiddiq)
 
 ## Languages
 - English: Very Good
