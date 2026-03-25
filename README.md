@@ -33,6 +33,25 @@ Clients describe me as **friendly, reliable, and responsible**. My long-term rel
 - **Friendly, reliable, and responsible** — I build long-term relationships, not one-off engagements. My average client contract runs **3+ years** because clients trust me to deliver and communicate honestly at every step.
 
 ## Top Projects & Success Stories
+### Grid AI
+[https://gridai.in](https://gridai.in)
+**Lead Full Stack Developer**
+**2023 – Present**
+
+_`#NodeJS` `#React` `#Laravel` `#MySQL` `#RabbitMQ` `#Redis` `#AWS` `#WhatsApp` `#Google` `#Microsoft` `#OpenAI`_
+
+Grid AI is an AI-powered networking assistant that scans business cards via WhatsApp with 99% OCR accuracy, converts them into leads, and automates follow-ups — helping professionals close more deals from events.
+
+As the **Lead Full Stack Developer**, I own the full product lifecycle — from requirements and architecture through development and deployment. Key contributions include:
+
+- Building a **business card scanning pipeline** using OCR (99% accuracy) integrated via **WhatsApp** — cards scanned in-chat are instantly converted into structured leads.
+- Developing **automated email and WhatsApp follow-ups** triggered on lead creation, keeping professionals engaged without manual effort.
+- Implementing **Google Workspace integrations**: Gmail, Google Sheets, Google Drive, and Google Calendar — enabling seamless lead sync and scheduling.
+- Implementing **Microsoft 365 integrations**: Outlook, Excel/Sheets, and Calendar — providing enterprise-grade connectivity for business users.
+- Building **AI-powered lead update features** supporting both **text and audio input** — users can update lead notes conversationally via voice or chat.
+- Architecting a scalable backend on **AWS** using **Node.js**, **MySQL**, **Redis**, and **RabbitMQ** for async job processing and message queuing.
+- Maintaining and extending **Laravel legacy code** while progressively modernising the stack.
+
 ### Kobra Dataworks
 [https://kobra-dataworks.de](https://kobra-dataworks.de)
 
