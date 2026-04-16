@@ -1,5 +1,26 @@
-# ADNAN SIDDIQ
-### Expert Full Stack Developer | 15+ Years | Mobile · Cloud · AI · DevOps
+## 🚀 AI & SaaS Architect | CTO | Full-Stack Systems Builder
+
+I help startups and companies design, build, and scale production-ready SaaS platforms, AI-driven systems, and high-performance applications.
+
+✔ 15+ years experience delivering end-to-end systems  
+✔ CTO-level ownership from idea → architecture → deployment  
+✔ Specialized in AI integrations, scalable backend systems, and cloud infrastructure  
+
+## 💼 What I Do
+
+- Build scalable SaaS platforms (multi-tenant, API-first)
+- Design and implement AI-powered solutions (automation, LLMs, workflows)
+- Develop high-performance backend systems (Laravel, Node.js, Python)
+- Architect cloud infrastructure (AWS, DigitalOcean, CI/CD pipelines)
+- Lead product development from MVP to production scale
+
+## 📊 Proven Experience
+
+- Built and managed SaaS platforms used by real-world businesses
+- Led engineering teams (up to 10+ developers) as CTO
+- Integrated complex third-party systems (Stripe, Meta Ads, DAT, Salesforce)
+- Designed scalable cloud architectures handling production workloads
+- Delivered end-to-end systems from concept to deployment
 
 ---
 - 📧 E-mail: [adnan.siddiq@live.com](mailto:adnan.siddiq@live.com)
@@ -16,15 +37,21 @@ For the past 8 months I have integrated **AI-assisted development** (Claude, Cur
 
 Clients describe me as **friendly, reliable, and responsible**. My long-term relationships speak for themselves — an average contract lifespan of **3+ years** — because I treat every project as if it were my own business.
 
-## Skills
+## 🛠 Tech Stack
+
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,nodejs,nextjs,laravel,php,python,django,react,vue,js,html,css,tailwind,swift,mysql,mongodb,firebase,git,docker,redis,ubuntu)]( )
-- **AI & Automation**: AI Prompt Engineering, Claude, Cursor, workflow automation, data-driven insights
-- **Cloud Services**: AWS, Azure, Digital Ocean, Scalable Infrastructure
-- **Backend**: Laravel, CodeIgniter, NodeJS (Express, Next.js), Python (Flask, FastAPI, Django), RESTful APIs
-- **Frontend**: React, Vue.js, Blade, Tailwind, AlpineJS
-- **Mobile Apps**: iOS Native (Swift, Objective-C), React Native
-- **DevOps**: Linux-based systems (Ubuntu, CentOS), LAMP/MEAN/MERN Stack, CI/CD, Docker
-- **Databases**: MySQL, MongoDB, Redis, RabbitMQ, Firebase
+
+**Backend:** Laravel, Node.js, Python (Flask)  
+**Frontend:** React, React Native  
+**Cloud & DevOps:** AWS, Docker, CI/CD  
+**Databases:** MySQL, MongoDB, Redis  
+**AI Tools:** LLM integrations, automation workflows
+
+## 🤖 Current Focus
+
+- AI-powered SaaS platforms
+- Automation using LLMs and workflows (n8n, APIs)
+- Scalable backend systems for high-growth startups
 
 ## Working Style & Philosophy
 
@@ -129,9 +156,14 @@ As a **Solo Full Stack Senior Developer**, I managed the application from **deve
 ## Future Aspirations
 I aim to explore and integrate advanced AI tools into applications to enhance user experiences and streamline processes. My goal is to leverage AI technologies that empower customers to work smarter, enabling them to achieve their objectives more efficiently and effectively.
 
-## Call to Action
+## 📬 Let's Work Together
 
-Feel free to reach out to me for the best service for any type of application. You can contact me via:
+I'm available for:
+- SaaS development & scaling
+- AI integrations and automation
+- System architecture consulting
+
+📩 Reach out to discuss your project
 
 - 📞 **WhatsApp:** [+92 321 7064275](https://wa.me/923217064275)
 - 📧 **Email:** [adnan.siddiq@live.com](mailto:adnan.siddiq@live.com)
